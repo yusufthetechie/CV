@@ -3,11 +3,11 @@ Address and phone here
 
 ## About me
 
-Well versed DevOps engineer, with a strong passion and enthusiasm for technology, architecture, development and build/deploy automation.
+Well versed DevOps and cloud engineer, with a strong passion and enthusiasm for cloud, architecture, development, build/deploy automation and reliability.
 
-My career began as a PHP developer, doing front and back end development for a growing startup, using open source technology. I then transitioned into iOS app development, followed by environment management and now to DevOps, which is where I specialise in. I've always enjoyed introducing appropriate tooling to make the lives of developers, testers and configuration management teams easier. It gives me great satisfaction everytime a solution comes into fruition and is ultimately well received by team members.
+My career began as a PHP developer, doing front and back end development for a growing startup, using open source technology. I then transitioned into iOS app development, followed by environment management and now to the DevOps and cloud space, which is where I specialise in. I've always enjoyed introducing appropriate tooling to make the lives of developers, testers and configuration management teams easier. It gives me great satisfaction everytime a solution comes into fruition and is ultimately well received by team members.
 
-I'm looking for a unique and exciting opportunity in an area I'm passionate about, where I am able to continue growing.
+I seek unique and exciting opportunities in areas I'm passionate about, where I am able to continue growing and developing my leadership and technical skills.
 
 ## Skills
 
@@ -24,6 +24,7 @@ I possess a strong technical background, and this has enabled me to pick up seve
 - Oracle: CCB, Webcenter Sites, Oracle DB
 - IBM: Sterling Order management, Websphere Message Broker, Websphere Commerce Server, IBM Datastage, DB2
 - Trading platforms: Murex
+- Cloud platforms: AWS and GCP
 
 #### DevOps delivery
 
@@ -43,7 +44,7 @@ Held several brown bag sessions and workshops, which involved introducing people
 
 ## Experience
 
-#### Accenture (August 2010 - Present)   
+#### Accenture (August 2010 - April 2019)   
 *Software engineer/Technical architect*  
 
 Accenture is a multinational technology and management consultancy. Worked across several high profile projects covering retail, utilities, financial and public service industries. Much of my focus has been around build/deploy automation on packaged/custom applications, from large vendors such as IBM, Oracle and Murex. I have also had roles in environment management, where I was managing up to 10+ environments including development, test & production and was part of an agile iOS development team that was responsible for the Barclays HomeOwner app. 
